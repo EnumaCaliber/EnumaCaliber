@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EnumaCaliber
-- 👀 I’m interested in the compiler, but I am a newbie
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in the CFD, but I am a newbie
+- 🌱 I’m currently learning Mathematics
 
 
 <!---
