@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EnumaCaliber
 - 👀 I’m interested in the CFD, but I am a newbie
 - 🌱 I’m currently learning Mathematics in UBC Vancouver
-- If you interested in my work, maybe we can have a coffee chat in Vancouver
+- 👋 If you're interested in my work, maybe we can have a coffee chat in Vancouver
 
 
 <!---
